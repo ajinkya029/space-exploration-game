@@ -178,7 +178,7 @@ space-exploration-game/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/space-exploration-game.git
+git clone https://github.com/ajinkya029/space-exploration-game.git
 ```
 
 ### 2. Navigate to the project
